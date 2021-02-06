@@ -1,5 +1,6 @@
 .footer {
-    width: 1000px;
-    background-color: black;
-    color: blue;
+    height: 5rem;
+    background-color: #b3ccff;
+    color: white;
+    font-size: 2vmin;
 }
